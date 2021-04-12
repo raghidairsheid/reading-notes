@@ -11,4 +11,13 @@
 ### growth:
 -learn from criticism 
 
+## Criticism in my opinion:
+1- My worst days are when I haven’t managed to get things together, it was very trest.
+2- I find myself with very few things to look back on positively.
+**some questions help me focus on all aspects of my day:**
+  1- What aspects of myself am I most proud of?
+  2- What do I fear?
+  3- What improve the aspects I’m less proud of?
+  
+  
 **can you go to google from here:**  [Google](www.google.com)
