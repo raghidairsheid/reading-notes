@@ -28,4 +28,14 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
 
 [read01](read01)
  
-[read03](read03)
+[read02](read02)
+
+
+__My name is Raghida Irsheid, I'am 22 yearsold. I studied computer science in Yarmouk University. I'am fresh graduate.__
+
+ 
+ |Number | Read |
+ |-------|------|
+ | 1     |[read01](read01)|
+ | 2     |[read02](read02)|
+
