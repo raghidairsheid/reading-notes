@@ -28,6 +28,7 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
 
 [read01](read01)
  
+<<<<<<< HEAD
 [read02](read02)
 
 
