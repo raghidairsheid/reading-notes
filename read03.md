@@ -22,6 +22,7 @@
 #### What Information Your Visitors Need?
 >Key Information about visitors be familiar with your subject area / brand, the product / service / information, what you are offering? .
 
+<<<<<<< HEAD
 #### Site Maps:
 >The aim is to create a diagram of the pages that will be used to structure the site.
 
@@ -70,3 +71,9 @@ _ You can use a background image behind the box created by any element on a page
 block-level and inline elements together.
 - The id and class attributes allow you to identify
 particular elements.
+=======
+#### Site Maps
+>The aim is to create a diagram of the pages that will be used to structure the site.
+
+**wireframe:** *is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.*
+
