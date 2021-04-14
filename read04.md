@@ -26,7 +26,7 @@ up your favorite code editor.
 >document.write('Hi Iam Raghida Irsheid');
 
 
-*The most **important** things you should Know  * __ JavaScript runs where it is found in the HTML __
+*The most **important** things you should Know __ JavaScript runs where it is found in the HTML __ *
 
 
 
