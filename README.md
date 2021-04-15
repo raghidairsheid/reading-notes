@@ -2,7 +2,7 @@
 
 __Raghida Irsheid__
 
-__ I'am 22 yearsold. I studied computer science in Yarmouk University. I'am fresh graduate.__
+__I'am 22 yearsold. I studied computer science in Yarmouk University. I'am fresh graduate.__
 
 
 Contant me:
