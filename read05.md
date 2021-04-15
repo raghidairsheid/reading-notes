@@ -1,3 +1,4 @@
+
 #### comparison operators evaluating conditons:
 - the result will be boolean: true or false
 > (==)  is equal to: two values to see if they are the same
