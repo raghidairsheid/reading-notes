@@ -1,14 +1,14 @@
 
 #### comparison operators evaluating conditons:
 - the result will be boolean: true or false
-> (==)  is equal to: two values to see if they are the same
-> (!=) is not eual to: two values to see if they are not the same
-> (===) strict equal to: data type and value are the same
-> (!==) strict not equal to: data type and value are not the same
-> (>) : grather than
-> (<) : less than>
-> (>=) : grather than and equal
-> (<=) : less than and equal
+1. (==)  is equal to: two values to see if they are the same
+2. (!=) is not eual to: two values to see if they are not the same
+3. (===) strict equal to: data type and value are the same
+4. (!==) strict not equal to: data type and value are not the same
+5. (>) : grather than
+6. (<) : less than>
+7. (>=) : grather than and equal
+8. (<=) : less than and equal
 
 #### using comparison operators:
 - evaluate variables
@@ -20,9 +20,9 @@
 #### logical operators:
 - return single values of true or false
 
-  > and   && 
-  > or    || 
-  > not   !
+> and   && 
+> or    || 
+> not   !
 
 
 ## LOOPS
@@ -52,8 +52,8 @@
 
 ## key loop concepts
   1. keyword
-    1. break
-    2. continue
+     1. break
+     2. continue
   2. loops and arrays
   3. performance issues
 
