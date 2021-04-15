@@ -19,15 +19,15 @@
 #### logical operators:
 - return single values of true or false
 
-  | **and** | **&&** |
-  |----|----|
-  | **or** | **||** |
-  | **not** |**!** |
+  > and   && 
+  > or    || 
+  > not   !
 
 
 ## LOOPS
 
 ![image](https://beginnersbook.com/wp-content/uploads/2017/08/for_loop_cpp.jpg)
+
 ### 1- for 
 > to run code specific number of times
 
