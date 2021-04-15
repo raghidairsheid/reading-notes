@@ -1,14 +1,15 @@
 
 #### comparison operators evaluating conditons:
 - the result will be boolean: true or false
-1. (==)  is equal to: two values to see if they are the same
-2. (!=) is not eual to: two values to see if they are not the same
-3. (===) strict equal to: data type and value are the same
-4. (!==) strict not equal to: data type and value are not the same
-5. (>) : grather than
-6. (<) : less than>
-7. (>=) : grather than and equal
-8. (<=) : less than and equal
+
+> (==)  is equal to: two values to see if they are the same
+> (!=) is not eual to: two values to see if they are not the same
+> (===) strict equal to: data type and value are the same
+> (!==) strict not equal to: data type and value are not the same
+> (>) : grather than
+> (<) : less than>
+> (>=) : grather than and equal
+> (<=) : less than and equal
 
 #### using comparison operators:
 - evaluate variables
@@ -43,6 +44,7 @@
 * as a condition
 * run a specified number of times
 * condition is made up of three statements: 
+
 > initialization such as: var i =0;
 > condition such as: i < 100;
 > update, such as: i++ , i-- 
