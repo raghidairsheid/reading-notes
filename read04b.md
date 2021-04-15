@@ -33,14 +33,13 @@ What makes a computer?
 
 
   ### 1. text in Binary(used ASCII)
+  
   | A | 1 | 00001|
   |---|---|------|
   |B  | 2 | 00010|
   | C | 3 | 00011|
-  |---|---|------|
   | D | 4 | 00100|
   | E | 5 | 00101|
-  |---|---|------|
   | F | 6 | 00110|
   |G  |7  |00111 |
 
@@ -57,7 +56,7 @@ What makes a computer?
 ## Memory, CPU, input & output
 - all computer do the same 4 things (each of them done by a different part of the computer)
 
-| input | converts physical input to binary information |
+| **input**| **converts physical input to binary information** |
 |--- |---|
 | **Memory** | **stors information** |
 | **CPU** | **control prossing unit calculates information** |
