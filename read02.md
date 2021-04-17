@@ -16,4 +16,3 @@ __Local Repository Structure__
 __we can renaming or removing remotes like: $ git remote rename js jane__
 
 
-[Home](README)

@@ -11,7 +11,6 @@
 >These three layers form the basis of a popular approach to building web pages called progressive enhancement.
 
 
-
 #### you do not need any new tools to write a script in JavaScript
 1-Two way to linking a JavaScript file from an HTML page: 
 - in HTML file you can use <script>...</script>
@@ -70,4 +69,3 @@ up your favorite code editor.
 ![image](https://miro.medium.com/max/3840/0*FfWF8PjBXoj6eWMN.jpg)
 
 
-[Home](README)
