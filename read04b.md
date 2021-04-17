@@ -72,4 +72,3 @@ What makes a computer?
   > using an operating system
 
 
-[Home](README)

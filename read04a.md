@@ -70,4 +70,3 @@ up your favorite code editor.
 ![image](https://miro.medium.com/max/3840/0*FfWF8PjBXoj6eWMN.jpg)
 
 
-[Home](README)
