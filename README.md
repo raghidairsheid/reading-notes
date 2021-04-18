@@ -54,3 +54,4 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
  | 4.a     |[read04a](read04a)|
  | 4.b | [raed04b](read04b)|
  | 5| [read05](read05) |
+ |6|[read06](read06)|
