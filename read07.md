@@ -92,4 +92,33 @@ that the styles are specified in CSS. The value should be text/css.
 
 ## **Sometimes you might consider placing CSS rules in the same page as your HTML code.**
 
+#Color
+#### Color can really bring your pages to life.
 
+
+## Foreground Color
+* specify the color of text inside an element:
+  * rgb values :
+
+  >rgb(100,100,90)
+
+  * hex codes
+  > #ee3e80
+  
+  * color names
+  > DarkCyan
+
+## Background Color
+  * like it: background-color
+
+
+## Opacity color
+* opacity, rgba
+
+## HSL Colors
+* hue
+* saturation
+* ligh tness
+
+## HSL & HSLA
+* like it: hsl(0,0%,78%);
