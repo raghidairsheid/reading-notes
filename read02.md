@@ -1,18 +1,26 @@
 
 
-### **Remote are versions of any project**
+
+### **Github**
+![image](https://pbs.twimg.com/media/Et8Nx58XcAIqGxS.png)
+
+#### **GitHub** is a website and service that we hear all the time, but many people do not know what it is and what services it provides, and we will explain through the thread about this service and its features.
 
 
+## command:
+* status 
+> git status
 
-__Local Repository Structure__
+* add   
+> git add .
 
-  1- Working Directory
-  2- Index
-  3- Head
+* commit 
+> commit -m " name of message "
 
-![image](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
+* push 
+> git push origin main
 
+* pull 
+> git pull origin main
 
-__we can renaming or removing remotes like: $ git remote rename js jane__
-
-
+* By running the ***git remote*** command, you can view the short names, such as “origin,” of all specified remote handles.
