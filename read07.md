@@ -1,5 +1,11 @@
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 1df95e8f063d644a47a279a7d089257a630eb871
 # CSS
 - allows to create rules that specify how the content of an element should appear.
 
