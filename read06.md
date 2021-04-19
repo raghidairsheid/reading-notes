@@ -32,6 +32,10 @@ __Before the closing </body> tag, you can see the link to the JavaScript file. t
 |such as: getArea(3,5);| such as: wWidth = 2; wHeight = 2; getArea(wWidth,wHeight);|
 
 
+##### *******************************************************
+
+
+
 |parameters | arguments |
 |--|---|
 |*such as: getArea(3,5);* | *such as: wWidth = 2; wHeight = 2; getArea(wWidth,wHeight);* |
@@ -40,3 +44,4 @@ __Before the closing </body> tag, you can see the link to the JavaScript file. t
 ## getting a single value out of a function
 - return inforimation 
 
+ 
