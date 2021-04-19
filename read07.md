@@ -60,7 +60,7 @@
      > <link href="css/styles.css" type="text/css" rel="stylesheet" />
 
 
-2-  **<Style>** 
+2-  **< **  **Style**  **>** 
 
 - should use the type attribute to indicate
 that the styles are specified in CSS. The value should be text/css.
