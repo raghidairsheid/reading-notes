@@ -5,6 +5,7 @@
 
 |Day|Number of reading|
 |------|-----|
+| 1 |  |
 
 
 
