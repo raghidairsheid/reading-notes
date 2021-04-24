@@ -213,3 +213,46 @@ information can help guide your site designs.
 
 ### Getting your message across using design
 * The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
+
+
+
+# 2- JavaScript Instuctions
+
+### 1. statement
+* should end with a semicolon (;)
+* each on starts on a new line 
+* can be ordanized into code blocks
+
+### 2. comments
+* multi-line comment 
+  * /*
+  * */
+* single-line comment
+  * //
+
+### 3. variable 
+* var + (variable name) + (;)
+* to assign them a value
+  * (variable name) + (=) + (;)
+
+
+
+## Data Type
+### 1. numbers
+### 2. strings
+### 3. Boolean
+  
+
+>rules you must using with a variable a name:
+  ```
+  1.must begin with a letter, ($), (_), must not start with nummer.
+  2. must not use a (-) or (.)
+  3. not use keywords or reserved words 
+  4. using different cases
+  5. use name to describes the kind of inforimation taht thw variable stores
+  6. if your variable name is made up of more than one word, use a capital letter for the first letter of every word.
+  ```
+
+![image](https://miro.medium.com/max/3840/0*FfWF8PjBXoj6eWMN.jpg)
+
+
