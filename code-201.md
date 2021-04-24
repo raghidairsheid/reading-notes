@@ -1,9 +1,11 @@
 # Code 201 Reading Notes
 
 
-##### ***daily reading ***
-| Day | Number of reading |
-|--|--|
+##### ***daily reading***
+
+|Day|Number of reading|
+|------|-----|
+
 
 
 
