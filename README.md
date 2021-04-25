@@ -69,7 +69,8 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
 
 |Day|Number of reading|
 |------|-----|
-| 2.1 |  |
+| 1 | [class-01](class-01) |
+|2|[class-02](class-02) |
 
 
 
