@@ -1,6 +1,5 @@
 
 
-
 # Text
 * Headings and paragraphs
 * Bold, italic, emphasis
@@ -15,16 +14,17 @@
 * **<p>** To create a paragraph, surround the words that make up the paragraph with an opening **<p>** tag and closing **</p>** tag.
 
 ## Bold & Italic
-* **<b>** By enclosing words in the tags <b> and **</b>** we can make characters appear bold.
+         <b> By enclosing words in the tags <b> and </b> we can make characters appear bold.
 
-* **<i>** By enclosing words in the tags <i> and **</i>** we can make characters appear italic.
+
+        <i> By enclosing words in the tags <i> and </i> we can make characters appear italic.
 
 
 ## Superscript & Subscript
-* **<sup>** The <sup> element should be superscript such as the suffixes of dates or mathematical concepts.
+* **<sup>** The **<sup>** element should be superscript such as the suffixes of dates or mathematical concepts.
 ![image](https://image.freepik.com/free-icon/font-style-superscript_318-48415.jpg)
 
-* **<sub>** The <sub> element should be subscript. It is commonly used with foot notes or chemical formulas.
+* **<sub>** The **<sub>** element should be subscript. It is commonly used with foot notes or chemical formulas.
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Format-subscript_i.svg/768px-Format-subscript_i.svg.png)
 
 ## White Space
@@ -36,6 +36,7 @@
 ![image](https://s3.ap-south-1.amazonaws.com/s3.studytonight.com/tutorials/uploads/pictures/1590818624-1.jpg)
 
 * **<hr />** To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the **<hr />** tag.
+
 ![image](https://www.lifewire.com/thmb/6eci9CScMDlWiITp3mEGhmrKBMw=/960x640/filters:no_upscale():max_bytes(150000):strip_icc()/hr-tag-html4-5b55ca6b46e0fb0037704508.png)
 
 
@@ -43,32 +44,32 @@
 * There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages.
 
 ## Strong & Emphasis
-* **<strong>** The use of the <strong> element indicates that its content has strong importance.
+* **<strong>** The use of the **<strong>** element indicates that its content has strong importance.
 
 
-* **<em>** The <em> element indicates emphasis that subtly changes the meaning of a sentence.
+* **<em>** The **<em>** element indicates emphasis that subtly changes the meaning of a sentence.
 ![image](https://internetingishard.netlify.app/html-strong-emphasis-element-5b0eb2.c94cd79c.png)
 
 
 ## Quotations
-* **<blockquote>** The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
+* **<blockquote>** The **<blockquote>** element is used for longer quotes that take up an entire paragraph. Note how the **<p>** element is still used inside the **<blockquote>** element.
 
-* **<q>** is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not — therefore many people avoid using the <q> element.
+* **<q>** is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the **<q>** element, however Internet Explorer does not — therefore many people avoid using the **<q>** element.
 
 ## Abb reviations & Acronyms
-* **<abbr>** use an abbreviation or an acronym, then the <abbr> element can be used.
+* **<abbr>** use an abbreviation or an acronym, then the **<abbr>** element can be used.
 
 ## Citations & Definitions
-* **<cite>**
-* **<dfn>**
+         <cite>
+         <dfn>
 
 ## Author Details
-* **<address>**
+        <address>
 
 ## Changes to Content
-* **<ins>**
-* **<del>**
-*  **<s>**
+        <ins>
+        <del>
+        <s>
 
 
 
@@ -89,13 +90,13 @@
 ![image](https://www.tutorialrepublic.com/lib/images/css-selector.png)
 
 ## Using External CSS
-1. **<link>**
-2. **href**
-3. **type**
-4. **rel**
+        1. <link>
+        2. href
+        3. type
+        4. rel
 
 ## Using Internal CSS
-1. **<style>**
+        ***<style>***
 
 
 ## CSS Selectors:
@@ -126,7 +127,7 @@
 ![image](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Js-Dom-Tree.png)
 
 ## JAVASCRIPT Runs where it is found in the HTML
-* When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything.
+* When the browser comes across a **<script>** element, it stops to load the script and then checks to see if it needs to do anything.
 
 
 
@@ -161,9 +162,9 @@
 2. A conditional statement says what to do in a given situation.
 
 ## Logical Operators 
-1. && 
-2. || 
-3. !
+      1. && 
+      2. || 
+      3. !
 
 
 ## if statement
