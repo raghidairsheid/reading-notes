@@ -1,5 +1,6 @@
 
 
+
 # Text
 * Headings and paragraphs
 * Bold, italic, emphasis
@@ -117,3 +118,53 @@
 
 ## Why use External Style Sheets?
 * When building a website there are several advantages to placing your CSS rules in a separate style sheet.
+
+
+
+## How to use Objects & Methods in JavaScript
+
+![image](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/08/Js-Dom-Tree.png)
+
+## JAVASCRIPT Runs where it is found in the HTML
+* When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything.
+
+
+
+### STATEMENTS
+* each individual instruction or step is known as a statement. statements should end with a semicolon.
+
+### COMMENTS
+* You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+
+
+### WHAT IS A VARIABLE?
+* to temporarily store the bits of information.
+
+### DATA TYPES
+1. numeric data type
+2. strings data type
+3. boolean data types
+
+
+### ARRAYS
+* is a special type of variable. It does not just store one value; it stores a list of values.
+
+#### EXPRESSIONS
+* evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
+
+#### OPERATORS
+* they allow programmers to create a single value from one or more values.
+
+## Decision Making
+* There are two components to a decision : 
+1. An expression is evaluated, which returns a value. 
+2. A conditional statement says what to do in a given situation.
+
+## Logical Operators 
+1. && 
+2. || 
+3. !
+
+
+## if statement
+* checks a condition.
