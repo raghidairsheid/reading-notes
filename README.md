@@ -44,7 +44,7 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
 
 
 
-
+# Code 102 Reading Notes
  
  |Number | Read |
  |-------|------|
@@ -59,3 +59,22 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
  |8|[read09](read09)|
  |9|[class-01](class-01)|
  |10|[Code 201](code-201)|
+
+
+
+# Code 201 Reading Notes
+
+
+##### ***daily reading***
+
+|Day|Number of reading|
+|------|-----|
+| 2.1 |  |
+
+
+
+
+
+
+
+
