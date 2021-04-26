@@ -48,17 +48,17 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
  
  |Number | Read |
  |-------|------|
- | 1    |[read01](read01)|
- | 2     |[read02](read02)|
- | 3    |[read03](read03)|
- | 4.a     |[read04a](read04a)|
- | 4.b | [raed04b](read04b)|
- | 5| [read05](read05) |
- |6|[read06](read06)|
- |7|[read07](read07)|
- |8|[read09](read09)|
- |9|[class-01](class-01)|
- |10|[Code 201](code-201)|
+ | 1    |[read01](read01.md)|
+ | 2     |[read02](read02.md)|
+ | 3    |[read03](read03.md)|
+ | 4.a     |[read04a](read04a.md)|
+ | 4.b | [raed04b](read04b.md)|
+ | 5| [read05](read05.md) |
+ |6|[read06](read06.md)|
+ |7|[read07](read07.md)|
+ |8|[read09](read09.md)|
+ |9|[class-01](class-01.md)|
+ |10|[Code 201](code-201.md)|
 
 
 
@@ -70,8 +70,8 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
 |Day|Number of reading|
 |------|-----|
 | 1 |[class-01](class-01.md)|
-|2|[class-02](class-02) |
-| 3 | [class-03](class-03)|
+|2|[class-02](class-02.md) |
+| 3 | [class-03](class-03.md)|
 
 
 
