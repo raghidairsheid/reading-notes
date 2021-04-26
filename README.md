@@ -57,8 +57,7 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
  |6|[read06](read06.md)|
  |7|[read07](read07.md)|
  |8|[read09](read09.md)|
- |9|[class-01](class-01.md)|
- |10|[Code 201](code-201.md)|
+ 
 
 
 
