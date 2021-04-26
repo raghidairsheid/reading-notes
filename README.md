@@ -71,6 +71,7 @@ __Here’s an example of my Challenges in learning Java. I studied a bit of Java
 |------|-----|
 | 1 | [class-01](class-01) |
 |2|[class-02](class-02) |
+| 3 | [class-03](class-03)|
 
 
 
