@@ -128,4 +128,72 @@
     
 ![image](img/border-radius.jpg)
 
+# ARRAYS in JavaScript
+
+1. Create an array
+
+2. Values in an ARRAYS
+
+3. accessing & changing value in an array
+
+        Create the array:
+           var colors = ['white','black' , 'custom'];
+        Update the third item in the array
+            colors[2] = 'beige ' ;
+        Get the element with an id of colors
+            var el = document .getElementByid(' colors') ;
+        Replace with third item from the array
+            el .textContent = colors[2];
+
+# IF ... ELSE STATEMENTS
+
+![image](https://th.bing.com/th/id/OIP.MAKlcMjk8lnJaUcC_gcw1wHaDI?w=350&h=147&c=7&o=5&pid=1.7)
+
+# SWITCH STATEMENTS
+
+![image](https://th.bing.com/th/id/OIP.5g32ld7ceIuSvE5Jt-OOAgAAAA?w=177&h=180&c=7&o=5&pid=1.7)
+        
+### Type coercion & weak typing
+
+| Data Type |Purpose|
+|---|--|
+|string| Text|
+| number | Number|
+| Boolean |true or false |
+| nul | Empty value|
+| undefined |Variable has been declared but not yet assigned a value| 
+
+### TRUTHY & FALSY VALUES
+* **Falsy values** if they are fa1se. 
+  * Falsy values can also be treated as the number 0.
+
+* **Truthy values** are treated as if they are true. 
+  * Truthy values can also be treated as the number 1.
+
+
+### Checking equality & existence
+
+| EXPRESSION | RESULT|
+|----|--|
+|(false == 0)| true|
+|(false === 0)|false |
+|(false== ") |true|
+|(false === ' ') |false|
+|(0 :: I I)|true|
+|(O === II)|false|
+|(undefined ==null) |true|
+|(null == false) |false|
+|(undefi ned == false)| false|
+|(null == 0)| false|
+|(undefined == O)| false|
+|(undefined === null)|false|
+|(Nan == null)|false|
+|(NaN == NaN)|false|
+
+
+### Loops
+
+
+
+
 
