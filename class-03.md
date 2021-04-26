@@ -110,7 +110,7 @@
 * repeat
 * round
 
-![image](img/border-image2.ipg)
+![image](img/border-image2.jpg)
 
 ## box-shadow
 * Horizontal offset
