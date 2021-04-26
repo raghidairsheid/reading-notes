@@ -117,7 +117,7 @@
 * Vertical offset
 * Blur distance
 * Spread of shadow
-![image](img/box-shadow.jpg)
+![image](img/box-shadow.png)
 
 ## border-radius
 
@@ -192,6 +192,7 @@
 
 
 ### Loops
+![image](https://eddler.se/wordpress/wp-content/uploads/foor-loop-javascript.png)
 
 
 
