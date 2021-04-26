@@ -46,7 +46,7 @@
   * min-width
   * max-width
 
-## 3. Limiting Height:
+## Limiting Height:
   * min-height
   * max-height
 
@@ -117,6 +117,7 @@
 * Vertical offset
 * Blur distance
 * Spread of shadow
+
 ![image](img/box-shadow.png)
 
 ## border-radius
