@@ -74,7 +74,7 @@
 
 
 # Page Sizes
-#### **Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide.
+#### **Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide.**
 
 ### Fixed Width Layouts
 
@@ -124,11 +124,11 @@ versions.| |
 
 ###  Declaring function that need inforimation
 
-![image](https://th.bing.com/th/id/Rbc824e1371141fc103bab83a09a37abd?rik=FelpGLB9Dcg91A&pid=ImgRaw)
+![image](img/c1.jpg)
 
 ### calling a function that need inforimation
 
-![image](https://th.bing.com/th/id/OIP.-bholkd7Shmb1ANcw7E3JAHaC3?pid=ImgDet&rs=1)
+![image](img/c2.jpg)
 
 ~~================================~~
 
