@@ -114,7 +114,7 @@ versions.| |
 # Function Methods & Objects
 
 ### WHAT IS A FUNCTION?
-> group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+> group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
 
 ### Declaring a function
@@ -131,6 +131,48 @@ versions.| |
 ![image](img/c2.jpg)
 
 ~~================================~~
+
+# ARRAYS
+
+> is a special type of variable. It doesn't just store one value; it stores a list of values.
+
+* Create an array
+    * give it a name just like you would any other variable (using the var keyword followed by the name of the array).
+    * The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma.
+
+* Values in array
+    * accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
+
+* Accessing & changing value in an array
+
+* Expression 
+> two types of expressions:
+    1. Expression that just assign a value to a variable
+    2. Expression that use two or more value to return a single value
+
+
+## if .. else statment
+![image](https://th.bing.com/th/id/R9df11ad76d7d8ffbcbe96bd9916bbae7?rik=sdvkkR3g%2baT1vQ&pid=ImgRaw);
+
+## switch statemen
+![image](https://image.slidesharecdn.com/switchstatements-131008052700-phpapp02/95/switch-statements-in-java-9-638.jpg?cb=1381210054)
+
+
+|DATA| TYPE PURPOSE|
+|--|--|
+|string| Text|
+|number |Number|
+|Boolean |true or false|
+|null |Empty value|
+
+## LOOP
+* KEYWORDS
+    * break
+    * continue
+* LOOPS & ARRAYS
+* PERFORMANCE ISSUES
+
+![image](https://th.bing.com/th/id/R2c2b536db4ac426f8b3ba2b71486f05c?rik=iHZdbEsyGdVj7g&riu=http%3a%2f%2fwww.atnyla.com%2flibrary%2fimages-tutorials%2ffor-loop-in-java.png&ehk=8HSnBobgT0nBwFBzidM6HoEnZpXLQ9lGKpF3ANwMyJg%3d&risl=&pid=ImgRaw);
 
 # 6 Reasons for Pair Programming:
 1. How does pair programming work?
