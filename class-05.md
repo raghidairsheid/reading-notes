@@ -25,10 +25,10 @@
 
 ### Adding Images
 
-*           <img>
-*           src
-*           alt
-*           title
+* `<img>`
+* `src`
+* `alt`
+* `title`
 
 ### Height & Width of Images
 *           height
@@ -93,9 +93,10 @@
 
 
 ### Image Dimensions
-    * reducing images size
-    * increasing images size
-    * changing shape
+
+* reducing images size
+* increasing images size
+* changing shape
 
 ![image](https://th.bing.com/th/id/OIP.wY4H4O5NG6HPjujNnqgv5gHaEE?w=282&h=180&c=7&o=5&pid=1.7)
 
