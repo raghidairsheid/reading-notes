@@ -37,6 +37,9 @@
 |document .URL|Returns string containing URL of current document|
 |document.domain|Returns domain of current document|
 
+---
+---
+---
 
 
 |`METHOD`| `DESCRIPTION`|
@@ -55,6 +58,9 @@ a parameter |
 |--|---|
 |length |Returns number of characters in the string in most cases|
 
+---
+---
+---
 
 |`METHOD` |`DESCRIPTION`|
 |--|--|
@@ -98,6 +104,9 @@ a parameter |
 |`PROPERTY`|`DESCRIPTION`|
 |--|--|
 |Math.PI |Returns pi (approximately 3.14159265359)|
+---
+---
+--
 
 |`METHOD` |`DESCRIPTION`|
 |--|--|
@@ -163,7 +172,7 @@ a parameter |
 
 
 
-            > WINDOW
+             WINDOW
                 DOCUMENT
                 HISTORY
                 LOCATION
@@ -189,7 +198,9 @@ a parameter |
 |window.screen.width|Accesses screen object and finds value of its width property (in pixels)|
 |window.screen.height|Accesses screen object and finds value of its height property (in pixels)|
 
-
+---
+---
+---
 
 |`METHOD`|`DESCRIPTION`|
 |--|--|
