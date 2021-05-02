@@ -43,6 +43,7 @@ Contant me:
 | 4 | [class-04](class-04.md)|
 | 5 | [class-05](class-05.md)|
 | 6 | [class-06](class06.md)|
+| 7 | [class-07](class07.md)|
 
 
 
