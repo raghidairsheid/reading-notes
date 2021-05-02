@@ -46,8 +46,7 @@
 |--|--|
 |document.write()| Writes text to document|
 |document.getElementByld()|Returns element, if there is an element with the value of the id attribute that matches |
-|document.querySe1ectorA11() |Returns list of elements that match a CSS selector, which is specified as
-a parameter |
+|document.querySe1ectorAll() |Returns list of elements that match a CSS selector, which is specified as a parameter |
 |document.createElement() |Creates new element|
 |document.createTextNode() |Creates new text node |
 
@@ -96,7 +95,7 @@ a parameter |
 |isNaN()|Checks if the value is not a number|
 |toFixed()|Rounds to specified number of decimal places (returns a string)|
 |toPrecision()|Rounds to total number of places (returns a st ring)|
-|toExponentia1()|Returns a string representing the number in exponential notation|
+|toExponential()|Returns a string representing the number in exponential notation|
 
 
 ## Global object: Math object
@@ -104,9 +103,12 @@ a parameter |
 |`PROPERTY`|`DESCRIPTION`|
 |--|--|
 |Math.PI |Returns pi (approximately 3.14159265359)|
+
+
+
 ---
 ---
---
+---
 
 |`METHOD` |`DESCRIPTION`|
 |--|--|
@@ -161,8 +163,8 @@ a parameter |
 
 
 
-* individual object
-* multiple object
+*           individual object
+*           multiple object
 
 ## THREE GROUPS OF BUILT-IN OBJECTS:
 1. USING BUILT-IN OBJECTS:
