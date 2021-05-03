@@ -44,6 +44,7 @@ Contant me:
 | 5 | [class-05](class-05.md)|
 | 6 | [class-06](class-06.md)|
 | 7 | [class-07](class-07.md)|
+| 8 | [class-08](class-08.md)|
 
 
 
