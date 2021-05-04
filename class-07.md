@@ -1,4 +1,42 @@
 
+# Domain Modeling
+* is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+
+* that's articulated well can verify and validate the understanding of a specific problem among various stakeholders. As a communication tool, it defines a vocabulary that can be used within and between both technical and business teams.
+
+# Define a constructor and initialize properties
+To define the same properties between many objects, you'll want to use a constructor function. Below is a table that summarizes a JavaScript representation of an EpicFailVideo object.
+
+|Property	|Data|	Type|
+|--|--|
+|epicRating|	1 to 10|	Number|
+|hasAnimals|	true or false|	Boolean|
+
+
+![image](img/domain.png)
+
+# Generate random numbers
+To model the random nature of user behavior, you'll need the help of a random number generator. Fortunately, the JavaScript standard library includes a Math.random() function for just this sort of occasion
+
+                var EpicFailVideo = function(epicRating, hasAnimals) {
+                this.epicRating = epicRating;
+                this.hasAnimals = hasAnimals;
+                }
+
+                EpicFailVideo.prototype.generateRandom = function(min, max) {
+                return Math.floor(Math.random() * (max - min + 1)) + min;
+                }
+
+                var parkourFail = new EpicFailVideo(7, false);
+
+                console.log(parkourFail.generateRandom(1, 5));
+
+
+
+
+
+
+
 # What's a Table?
 * A table represents information in a grid format.
 
