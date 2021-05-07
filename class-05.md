@@ -174,6 +174,27 @@ create simple animations.
 ### Opacity
         opacity, rgba
 
+### HSL Colors
+* hue
+* saturation
+* ligh tness
+
+**There are three ways to specify colors in CSS:**
+1. RGB values
+2. hex codes
+3. color names.
+
+**Color pickers can help you find the color you want.**
+
+**CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.**
+
+**CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA**
+
+**It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).**
+
+
+
+
 
 --- 
 
@@ -312,8 +333,45 @@ create simple animations.
 |Suffix | [$=] |p[attr$"g"]|
 
 
+
+---
+
+# JPEG vs PNG vs GIF 
+
+**Compression:**
+
+###  **JPEG** is a lossy compression specification that takes advantage of human perception.
+
+![image](https://miro.medium.com/max/700/1*HnECuWHjR2g4V7RAGmdmrg.jpeg)
+
+
+### **PNG** is a lossless image format using DEFLATE compression.
+
+![image](https://miro.medium.com/max/700/1*sD2tU56l8y1jF4BPQdWNYA.png)
+
+### **GIF** is also a lossless image format that uses LZW compression algorithm. It was favoured over PNG for simple graphics in websites in its early days because the support of PNG was still growing.
+
+![image](https://miro.medium.com/max/700/1*RC1_APSn_bNGP4dYpR9MJw.gif)
+
+
+## Colours
+
+* **JPEG** images can support around 16 million colours.
+* **PNG** images mainly have two modes — PNG8 and PNG24
+* **GIF** images are limited to 256 colours. 
+
+
+
+* Animation
+
+[An animated GIF Image. The blockiness of the colours can be observed (look at the lamp in the background)](https://giphy.com/gifs/silicon-valley-l0K4jMNck0La1a7aU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
+
+
+---
+
+[If you need to read more about JPEG vs PNG vs GIF press here](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+
 ---
 
 [Read more about this article from w3schools ^_^](https://www.w3schools.com/css/default.asp)
-
 
