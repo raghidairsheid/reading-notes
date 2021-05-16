@@ -121,8 +121,9 @@
 ---
 
 ## Video and Audio APIs
+
 |Prerequisites|Objective |
-|--|--|	
+|----|----|	
 |JavaScript basics (see [first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps), [building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks), [JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)), the [basics of Client-side APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)| To learn how to use browser APIs to control video and audio playback.|
 
 
