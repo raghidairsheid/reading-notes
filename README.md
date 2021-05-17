@@ -49,7 +49,7 @@ Contant me:
 |10|[class-10](class-10.md)|
 |11|[class-11](class-11.md)|
 |12|[class-12](class-12.md)|
-|13|[class-13|(class-13.md)
+| 13 | [class-13](class-13.md)|
 
 
 
