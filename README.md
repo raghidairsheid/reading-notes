@@ -51,8 +51,8 @@ Contant me:
 |12|[class-12](class-12.md)|
 | 13 | [class-13](class-13.md)|
 |14|[class-14](class-14.md)|
-|15a|[class-15](class-15a.md)|
-|15b|[class-16](class-15b.md)|
+|15a|[class-15a](class-15a.md)|
+|15b|[class-15b](class-15b.md)|
 
 
 
