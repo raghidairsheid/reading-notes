@@ -658,6 +658,10 @@ You can see the all result from her: [RESULT](https://www.webdesignerdepot.com/2
 # 6 Buttons animated
 #### Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons!
 
+#### Whether thick and bold on your homepage or small and discreet in the footer, buttons are a very important design element for the user flow on your website. For a company website, a more discreet design is often used, whereas creative industries use more eye-catching and “weird” CSS buttons. So that all industries are equally served, you will find many different styles and combinations here.
+
+#### I and many other web developers/designers – also set a high value on animations for Hover or Focus, which is why all of the following buttons bring along nice animations. But now we start directly!
+
 You can see the 6 button from her: [RESULT](https://codepen.io/retyui/pen/ByoaXV?editors=1111)
 
 
