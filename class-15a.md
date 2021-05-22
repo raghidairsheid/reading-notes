@@ -656,24 +656,31 @@ You can see the all result from her: [RESULT](https://www.webdesignerdepot.com/2
 
 
 # 6 Buttons animated
+#### Buttons are not only good for usability, but also an extremely important design element for your website. For this reason, here is a collection of the best CSS buttons!
+
 You can see the 6 button from her: [RESULT](https://codepen.io/retyui/pen/ByoaXV?editors=1111)
 
 
 ---
 ---
 # CSS3 Keyframes Animation
+#### Each keyframe describes how the animated element should render at a given time during the animation sequence. Since the timing of the animation is defined in the CSS style that configures the animation, keyframes use a <percentage> to indicate the time during the animation sequence at which they take place.
+
 You can see the CSS3 Keyframes Animation from her: [RESULT](https://codepen.io/akshaychauhan/pen/oAfae)
 
 
 ---
 ---
 # 404
+#### The HTTP 404, 404 Not Found, 404, 404 Error, Page Not Found or File Not Found error message is a Hypertext Transfer Protocol (HTTP) standard response code, in computer network communications, to indicate that the browser was able to communicate with a given server, but the server could not find what was requested.
 You can see the **404** from her: [RESULT](https://codepen.io/kieranfivestars/pen/MYdQxX)
 
 
 ---
 ---
 # Pure CSS Bounce Animation
+#### Bouncing images at different times: Add element with class bounce, bounce2 and bounce3. The CSS in my snippet has an animation delay for the bounce effect.
+
 You can see the **Pure CSS Bounce Animation** from her: [RESULT](https://codepen.io/dp_lewis/pen/gCfBv)
 
 
